@@ -19,6 +19,5 @@ class Solution {
 
         ans=(a*b)%1000000007L;
         return (int)ans;
-
     }
 }
